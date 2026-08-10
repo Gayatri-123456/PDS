@@ -1,0 +1,13 @@
+age = 19
+percentage = 92.5
+name = "Gayatri"
+is_student = True
+print("----- VARIABLES AND DATA TYPES -----")
+print("Age:", age)
+print("Data Type of age:", type(age))
+print("Percentage:", percentage)
+print("Data Type of percentage:", type(percentage))
+print("Name:", name)
+print("Data Type of name:", type(name))
+print("Is Student:", is_student)
+print("Data Type of is_student:", type(is_student))
